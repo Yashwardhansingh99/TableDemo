@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Yash",
+    "address": "Bilaspur",
+    "phoneNumber": "123456789",
+    "email": "yash@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Raj",
+    "address": "Delhi",
+    "phoneNumber": "987654321",
+    "email": "raj@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Shanika",
+    "address": "Hyderabad",
+    "phoneNumber": "135678493",
+    "email": "shanika@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Rajni",
+    "address": "Bilaspur",
+    "phoneNumber": "123456789",
+    "email": "rajni@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Utsav",
+    "address": "noida",
+    "phoneNumber": "124578937",
+    "email": "utsav@email.com"
+  }
+]
